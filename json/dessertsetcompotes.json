@@ -1,0 +1,1358 @@
+[
+  {
+    "name": "Dessert fruitier pomme\nDouceur du Verger s/sucre 4x97g",
+    "price": "1,05€"
+  },
+  {
+    "name": "Dessert fruitier pomme poire\nDouceur du Verger s/sucre 4x97g",
+    "price": "1,21€"
+  },
+  {
+    "name": "Dessert fruitier pomme mangue\nDouceur du Verger s/sucre4x100g",
+    "price": "1,29€"
+  },
+  {
+    "name": "Dessert fruitier pomme pêche\nAbricot Douceur du Verger 4x97g",
+    "price": "1,25€"
+  },
+  {
+    "name": "Dessert fruitier pomme pruneaux\nDouceur du Verger s/sucre4x100g",
+    "price": "1,51€"
+  },
+  {
+    "name": "Compote Douceur du Verger\nPomme Abricot - 4x100g",
+    "price": "1,18€"
+  },
+  {
+    "name": "Purée Douceur du Verger\nPomme banane - x4 - 400g",
+    "price": "1,61€"
+  },
+  {
+    "name": "Dessert fruitier pomme\nDouceur Verger s/sucre 8x100g",
+    "price": "1,86€"
+  },
+  {
+    "name": "Compote Douceur du Verger\nPomme Poire - 4x100g",
+    "price": "1,11€"
+  },
+  {
+    "name": "Compote Douceur du Verger\nPomme banane - 4x100g",
+    "price": "1,09€"
+  },
+  {
+    "name": "Compote Douceur du Verger\nPomme Fraise - 4x100g",
+    "price": "1,11€"
+  },
+  {
+    "name": "Dessert fruitier pomme\nDouceur du Verger 8x100g",
+    "price": "1,72€"
+  },
+  {
+    "name": "Dessert fruitier pomme\nDouceur du Verger 16x100g",
+    "price": "2,56€"
+  },
+  {
+    "name": "Compotes Douceur du Verger\nPanachées - x16",
+    "price": "3,97€"
+  },
+  {
+    "name": "Compotes Douceur du Verger\nPanachées - 16x100g",
+    "price": "4,03€"
+  },
+  {
+    "name": "Compotes pommes Andros\n4x100g",
+    "price": "1,29€"
+  },
+  {
+    "name": "Compotes Andros\nPomme Fraise - 4x100g",
+    "price": "1,67€"
+  },
+  {
+    "name": "Compotes Andros\nPomme Banane - 4x100g",
+    "price": "1,67€"
+  },
+  {
+    "name": "Compotes Andros\nPomme Poire - 4x100g",
+    "price": "1,34€"
+  },
+  {
+    "name": "Compotes Andros\nPomme - 4x100g",
+    "price": "1,74€"
+  },
+  {
+    "name": "Compotes Andros\nPomme/chataigne - 4x100g",
+    "price": "1,87€"
+  },
+  {
+    "name": "Compotes Pomme Pruneau Andros\n4x100g",
+    "price": "1,42€"
+  },
+  {
+    "name": "Dessert fruitier pomme pêche\nAndros x4",
+    "price": "1,69€"
+  },
+  {
+    "name": "Compote Andros\nPomme Abricot - 4x100g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Compote Andros\nPomme framboise - 4x100g",
+    "price": "1,86€"
+  },
+  {
+    "name": "Dessert fruitier Andros\nOnctueux abricot - 4x97g",
+    "price": "2,29€"
+  },
+  {
+    "name": "Dessert fruitier Andros\nFraise - oncteux - 4x97g",
+    "price": "2,67€"
+  },
+  {
+    "name": "Compote avec morceaux Andros\nFramboise - 4x100g",
+    "price": "2,95€"
+  },
+  {
+    "name": "Compote Andros\nAbricot Morceaux - 4x100g",
+    "price": "2,26€"
+  },
+  {
+    "name": "Compote avec morceaux Andros\nCerise - 4x100g",
+    "price": "2,61€"
+  },
+  {
+    "name": "Compotes Andros\nDélice de rhubarbe - 4x100g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Dessert fruitier Fraise Andros\nEn morceaux - 4x100g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Dessert fruitier pêche Andros\nEn morceaux - 4x100g",
+    "price": "2,01€"
+  },
+  {
+    "name": "Compotes Andros\nPomme châtaigne 8x100g",
+    "price": "2,89€"
+  },
+  {
+    "name": "Compote Andros\nPomme nature - 12x100g",
+    "price": "3,55€"
+  },
+  {
+    "name": "Compotes Andros\nPomme abricot 8x100g",
+    "price": "2,59€"
+  },
+  {
+    "name": "Compotes Andros\nPomme poire 8x100g",
+    "price": "2,69€"
+  },
+  {
+    "name": "Compotes Andros\nPomme Fraise - 8x100g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Compotes Andros\nPomme nature - 8x100g",
+    "price": "2,30€"
+  },
+  {
+    "name": "Compotes Andros\nPomme fraise 12x100g",
+    "price": "3,69€"
+  },
+  {
+    "name": "Desserts panaches Andros\nPomme +pomme poire - 12x100g",
+    "price": "3,69€"
+  },
+  {
+    "name": "Dessert panaché Andros\nPanaché - 16x100g",
+    "price": "5,39€"
+  },
+  {
+    "name": "Compotes Andros\nPanachés 16x100g",
+    "price": "4,89€"
+  },
+  {
+    "name": "Compotes Andros\nPomme nature - 16x100g",
+    "price": "3,78€"
+  },
+  {
+    "name": "Desserts panaches Andros\n16x100g",
+    "price": "5,39€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Poires - 4x100g",
+    "price": "1,50€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Fraises - 4x100g",
+    "price": "1,83€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Abricots - 4x100g",
+    "price": "1,48€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Bananes Vanille -4x100g",
+    "price": "1,69€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Myrtilles - 4x97g",
+    "price": "1,94€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Passion - 4x97g",
+    "price": "                     1                                      ,69                 €"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes - 4x100g",
+    "price": "1,58€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Cerises - 4x97g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Pêches - 4x100g",
+    "price": "1,60€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Mangues - 4x100g",
+    "price": "1,48€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Framboises - 4x100g",
+    "price": "1,74€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Pruneaux - 4x100g",
+    "price": "1,91€"
+  },
+  {
+    "name": "Compote Charles & Alices\nPommes Mirabelles - 4x97g",
+    "price": "1,69€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes Ananas - 4x97g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Purée de fruits Charles & Alice\nPommes Kiwi - 4x97g",
+    "price": "1,79€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPommes - 8x100g",
+    "price": "3,17€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPanachés P.Mangues - 12x100g",
+    "price": "4,49€"
+  },
+  {
+    "name": "Compote Charles & Alice\nPanachés P.Myrtilles - 12x100g",
+    "price": "4,88€"
+  },
+  {
+    "name": "Compotée Ananas Rhum Vanille\nBonne Maman - 2x130g",
+    "price": "3,29€"
+  },
+  {
+    "name": "Compotée Bonne Maman\nFraise/Famboise/Sureau - 260g",
+    "price": "2,95€"
+  },
+  {
+    "name": "Compotée Bonne Maman\nPêche/Abricot/Verveine - 260g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Compotée Bonne Maman\nPoire Williams - 2x130g",
+    "price": "2,37€"
+  },
+  {
+    "name": "Le coulis de Fruits rouges\nRians - 170g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Spécialité au soja Nat&Vie\nCaramel - 4x100g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nChocolat - 4x100g",
+    "price": "1,69€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nVanille - 4x100g",
+    "price": "1,72€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nNoix de coco - 4x100g",
+    "price": "2,41€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nCafé - 4x100g",
+    "price": "1,80€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nCaramel - 4x100g",
+    "price": "1,90€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nPistache - 4x100g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Crème desserts Délisse\nSaveur Praline - 4x100g",
+    "price": "1,79€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nChocolat - 8x100g",
+    "price": "3,27€"
+  },
+  {
+    "name": "Petit pot de crème Délisse\nVanille - 8x100g",
+    "price": "3,32€"
+  },
+  {
+    "name": "Crème dessert Délisse\nChocolat - 4x125g",
+    "price": "                     0                                      ,89                 €"
+  },
+  {
+    "name": "Crème dessert Délisse\nChocolat noir 4x125g",
+    "price": "1,09€"
+  },
+  {
+    "name": "Crème dessert Délisse\nVanille - 4x125g",
+    "price": "0,89€"
+  },
+  {
+    "name": "Crème dessert Délisse\nCaramel - 4x125g",
+    "price": "                     0                                      ,93                 €"
+  },
+  {
+    "name": "Crème dessert Délisse\nPistache - 4x125g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Crème dessert Délisse\nCafé - 4x125g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Crème dessert Délisse\nPraliné - 4x125g",
+    "price": "1,05€"
+  },
+  {
+    "name": "Crème dessert Délisse\nChocolat blanc - 4x125g",
+    "price": "1,22€"
+  },
+  {
+    "name": "Crème dessert Délisse\nSaveur Brownie - 4x125g",
+    "price": "1,55€"
+  },
+  {
+    "name": "Crème dessert Délisse\nSaveur cookies - 4x125g",
+    "price": "1,53€"
+  },
+  {
+    "name": "Crème dessert Délisse\nSpéculos - 4x125g",
+    "price": "1,53€"
+  },
+  {
+    "name": "Crème dessert Délisse\nChocolat noisette - 4x125g",
+    "price": "1,38€"
+  },
+  {
+    "name": "Crème dessert Délisse\nVanille sur lit chocolat 4x125g",
+    "price": "1,44€"
+  },
+  {
+    "name": "Crème dessert Délisse\nVanille sur lit caramel 4x125g",
+    "price": "1,60€"
+  },
+  {
+    "name": "Crème dessert Delisse\nChocolat - 6x125g",
+    "price": "1,33€"
+  },
+  {
+    "name": "Crème dessert Delisse\nVanille - 6x125g",
+    "price": "1,33€"
+  },
+  {
+    "name": "Crème dessert Delisse\nCaramel - 6x125g",
+    "price": "1,33€"
+  },
+  {
+    "name": "Crème dessert Délisse\nPanaché - 12x125g",
+    "price": "                     2                                      ,72                 €"
+  },
+  {
+    "name": "Crème de marron Délisse\n4x11,5cl",
+    "price": "1,54€"
+  },
+  {
+    "name": "Crème onctueuse Délisse\nAu café - 2x90g",
+    "price": "2,14€"
+  },
+  {
+    "name": "Desserts lactés Délisse\nChocolat caramel - 6x60g",
+    "price": "1,55€"
+  },
+  {
+    "name": "Dessert lacté Délisse\nChocolat - 4x100g",
+    "price": "1,05€"
+  },
+  {
+    "name": "Crème dessert Petits Délis\nChocolat et lait - 6x70g",
+    "price": "1,22€"
+  },
+  {
+    "name": "Crème dessert Eco+\nChocolat - 4x125g",
+    "price": "                     0                                      ,77                 €"
+  },
+  {
+    "name": "Crème dessert Eco+\nSaveur vanille - 4x125g",
+    "price": "                     0                                      ,79                 €"
+  },
+  {
+    "name": "Crème dessert panché Eco+\n12x125g",
+    "price": "                     2                                      ,36                 €"
+  },
+  {
+    "name": "crème dessert chocolat noir\ndanette - 4x125g",
+    "price": "1,67€"
+  },
+  {
+    "name": "Crème dessert Danette\nChocolat - 6x125g",
+    "price": "2,07€"
+  },
+  {
+    "name": "Crème dessert Danette\nVanille - 6x125g",
+    "price": "2,07€"
+  },
+  {
+    "name": "crème dessert pistache\ndanette - 4x125g",
+    "price": "1,73€"
+  },
+  {
+    "name": "crème dessert chocolat noisette\ndanette - 4x125g",
+    "price": "1,64€"
+  },
+  {
+    "name": "crème dessert café\ndanette - 4x125g",
+    "price": "1,71€"
+  },
+  {
+    "name": "Crème dessert Danette\nvanille lit de chocolat -4x125g",
+    "price": "1,70€"
+  },
+  {
+    "name": "Crème dessert Danette\nCaramel - 6x125g",
+    "price": "                     2                                      ,06                 €"
+  },
+  {
+    "name": "Crème dessert Danette\nVanille caramel - 4x125g",
+    "price": "1,70€"
+  },
+  {
+    "name": "crème dessert chocolat au lait\ndanette - 4x125g",
+    "price": "1,75€"
+  },
+  {
+    "name": "Crème dessert Danette Fondant\nVanille - 4x100g",
+    "price": "                     1                                      ,98                 €"
+  },
+  {
+    "name": "liégeois chocolat\ndanette - 8x100g",
+    "price": "2,99€"
+  },
+  {
+    "name": "crème dessert caramel beurre\nsalé danette - 4x125g",
+    "price": "1,77€"
+  },
+  {
+    "name": "Crème dessert Danette\nVanille - 8x125g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Crème dessert Danette\nChocolat Vanille - 12x115g",
+    "price": "3,61€"
+  },
+  {
+    "name": "crème dessert chocolat caramel\nvanille danette - 12x115g",
+    "price": "3,43€"
+  },
+  {
+    "name": "crème dessert 3 chocolats\ndanette - 12x115g",
+    "price": "3,64€"
+  },
+  {
+    "name": "Crème dessert Danette\nvanille chocolat -16x115g",
+    "price": "4,93€"
+  },
+  {
+    "name": "Crème dessert Danette\nChocolat et lait - 6x70g",
+    "price": "                     1                                      ,58                 €"
+  },
+  {
+    "name": "Crème dessert vanille Danette\nBilles 3 chocolats - 4x117g",
+    "price": "2,45€"
+  },
+  {
+    "name": "crème dessert chocolat danette\npop billes 3 chocolats - 4x117g",
+    "price": "2,45€"
+  },
+  {
+    "name": "crème dessert chocolat danette\npop billes 3 chocolats - 4x120g",
+    "price": "2,47€"
+  },
+  {
+    "name": "Crème dessert Délisse Vanille\nBilles 3 chocolats 4x117g",
+    "price": "2,08€"
+  },
+  {
+    "name": "Crème dessert Délisse Choco\nBilles bicompartiment 4x117g",
+    "price": "1,70€"
+  },
+  {
+    "name": "Crème dessert Chocolat Délisse\nMix'n croc color 4x120g",
+    "price": "2,09€"
+  },
+  {
+    "name": "Petit Pot Crème La Laitière\nChocolat - 4x100g",
+    "price": "2,16€"
+  },
+  {
+    "name": "Petit Pot Crème La Laitière\nVanille - 4x100g",
+    "price": "2,18€"
+  },
+  {
+    "name": "Petit Pot Crème La Laitière\nCafé - 4x100g",
+    "price": "2,28€"
+  },
+  {
+    "name": "Petit Pot Crème La Laitière\nChocolat noir - 4x100g",
+    "price": "2,34€"
+  },
+  {
+    "name": "Petit Pot Crème La Laitière\nCaramel - 4x100g",
+    "price": "                     2                                      ,24                 €"
+  },
+  {
+    "name": "Petit Pot Crème La Laitière\nChocolat - 8x100g",
+    "price": "3,88€"
+  },
+  {
+    "name": "Petit Pot Crème La Laitière\nVanille - 8x100g",
+    "price": "3,92€"
+  },
+  {
+    "name": "Crème dessert LA LAITIERE\nVelours de crème chocolat 4x85g",
+    "price": "1,87€"
+  },
+  {
+    "name": "Crème dessert La Laitière\nVelours de crème caramel 4x85g",
+    "price": "                     1                                      ,87                 €"
+  },
+  {
+    "name": "Crème dessert LA LAITIERE\nVelours crème choco/cara 4x85g",
+    "price": "1,87€"
+  },
+  {
+    "name": "Crème dessert La Laitière\nPistache - 4x115g",
+    "price": "                     1                                      ,99                 €"
+  },
+  {
+    "name": "Crème dessert La Laitière\nStandard caramel - 4x100g",
+    "price": "2,17€"
+  },
+  {
+    "name": "Yaourts Mamie Nova\nChocolat - 2x150g",
+    "price": "1,26€"
+  },
+  {
+    "name": "Crème gourmande Mamie Nova\nVanille bourbon 2x150g",
+    "price": "1,55€"
+  },
+  {
+    "name": "Dessert lacté Mamie Nova\nCarambar - 2x150g",
+    "price": "1,83€"
+  },
+  {
+    "name": "Le Fondant Mamie Nova\nCaramel beurre salé - 2x150g",
+    "price": "1,41€"
+  },
+  {
+    "name": "Le Fondant Mamie Nova\nPistache - 2x150g",
+    "price": "1,39€"
+  },
+  {
+    "name": "Lait Empresuré chocolat\nLaiterie de Saint Malo 4x125g",
+    "price": "1,87€"
+  },
+  {
+    "name": "L'Onctueux Café Rians\n2x94g",
+    "price": "2,43€"
+  },
+  {
+    "name": "Crème dessert protéinée\nLindahls Vanille - 2x150g",
+    "price": "2,42€"
+  },
+  {
+    "name": "Crème dessert protéinée\nLindhals Cacao - 2x150g",
+    "price": "2,42€"
+  },
+  {
+    "name": "Crème Brûlée au Rhum Rians\nDe Guadeloupe - 2x100g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Dessert Empresure Malo\nChocolat - 4x125g",
+    "price": "1,96€"
+  },
+  {
+    "name": "Crème dessert bio les 2 vaches\nfondant chocolat - 4x125g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Crème dessert Bio Les 2 vaches\nVanille - 4x95g",
+    "price": "1,75€"
+  },
+  {
+    "name": "Crème dessert Bio Les 2 vaches\nChocolat - 4x95g",
+    "price": "1,57€"
+  },
+  {
+    "name": "Crème dessert Bio Les 2 vaches\nCaramel - 4x95g",
+    "price": "1,75€"
+  },
+  {
+    "name": "Crème dessert végétal Sojasun\nNoisette Amande - 4x100g",
+    "price": "1,70€"
+  },
+  {
+    "name": "Mousse à la crème Duodélisse\nNature - 4x100g",
+    "price": "                     1                                      ,42                 €"
+  },
+  {
+    "name": "Mousse à la crème Duodélisse\nFraise - 4x100g",
+    "price": "1,78€"
+  },
+  {
+    "name": "Mousse Délisse\nChocolat noir - 4x60g",
+    "price": "1,16€"
+  },
+  {
+    "name": "Mousse Délisse\nCaramel beurre salé - 4x60g",
+    "price": "1,38€"
+  },
+  {
+    "name": "Mousse au chocolat Délisse\nChocolat au lait - 4x60g",
+    "price": "1,16€"
+  },
+  {
+    "name": "Mousse Délisse\nCafé - 4x60g",
+    "price": "1,16€"
+  },
+  {
+    "name": "Mousse au chocolat Eco+\n4x60g",
+    "price": "0,75€"
+  },
+  {
+    "name": "Mousse Délisse\nChocolat au lait - 8x60g",
+    "price": "2,31€"
+  },
+  {
+    "name": "Mousse chocolat Délisse\nNoir et lait coulis - 8x60g",
+    "price": "2,12€"
+  },
+  {
+    "name": "Mousse Liégoise Délisse\nPistache - 8x80g",
+    "price": "2,36€"
+  },
+  {
+    "name": "Mousse à la liégeoise Délisse\nChocolat - 8x80g",
+    "price": "2,35€"
+  },
+  {
+    "name": "Mousse à la liégeoise Délisse\nVanille - 8x80g",
+    "price": "2,40€"
+  },
+  {
+    "name": "Mousse Liégeoise Délisse\nCaramel - 8x80g",
+    "price": "2,58€"
+  },
+  {
+    "name": "Secret de mousse La Laitière\nChocolat au lait - 4x59g",
+    "price": "1,69€"
+  },
+  {
+    "name": "Secret de mousse la Laitière\nChocolat noir - 4x59g",
+    "price": "1,66€"
+  },
+  {
+    "name": "Secret de mousse La laitière\nCafé - 4x12cl",
+    "price": "1,79€"
+  },
+  {
+    "name": "Secret de mousse La laitière\nChocolat Lait et Blanc - 4x59 g",
+    "price": "1,82€"
+  },
+  {
+    "name": "Secret de mousse la Laitière\nChocolat au lait - 8x12cl",
+    "price": "2,71€"
+  },
+  {
+    "name": "Secret de mousse La Laitière\nCitron - 4x59g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Feuilleté Mousse La Laitière\nChocolat - 4x57g",
+    "price": "1,46€"
+  },
+  {
+    "name": "Feuilleté Mousse La Laitière\nVanille - 4x57g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Feuilleté de Mousse La Laitière\nMenthe - 4x57g",
+    "price": "1,43€"
+  },
+  {
+    "name": "Feuilleté de mousse La Laitière\nPraliné - 4x57g",
+    "price": "1,88€"
+  },
+  {
+    "name": "Feuilleté de mousse la Laitière\nChocolat noir - 4x57g",
+    "price": "1,67€"
+  },
+  {
+    "name": "Secret de Mousse La Laitière\nCaramel - 4x59g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Mousse Maronsui's LA LAITIERE\nCrème de marrons 8x68,8g",
+    "price": "3,34€"
+  },
+  {
+    "name": "Mousse Maronsui's La Laitière\nCrème de marrons - 4x68,8g",
+    "price": "1,70€"
+  },
+  {
+    "name": "Mousse au chocolat Bonne Maman\n4x50g",
+    "price": "2,54€"
+  },
+  {
+    "name": "Mousse aux oeufs Bonne Maman\nChocolat au lait - 4x50g",
+    "price": "2,31€"
+  },
+  {
+    "name": "Mousse aux oeufs Bonne Maman\nChocolat - 4x50g",
+    "price": "2,54€"
+  },
+  {
+    "name": "Mousse liégeoise Viennois\nNestlé Chocolat - 8x90g",
+    "price": "3,10€"
+  },
+  {
+    "name": "Mousse liégeoise Viennois\nNestlé Café - 4x90g",
+    "price": "1,85€"
+  },
+  {
+    "name": "Mousse Danette\nChocolat - 4x60g",
+    "price": "1,78€"
+  },
+  {
+    "name": "La Fermière Mousse au Chocolat\nnoir Pérou - 2x85g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Mousse au fromage Light & Free\n2 Fraise 2 Pêche 0%MG - 4x115g",
+    "price": "2,25€"
+  },
+  {
+    "name": "Yaourts Mamie Nova\nCafé - 2x150g",
+    "price": "1,31€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nCafé - 4x100g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nCaramel - 4x100g",
+    "price": "1,39€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nCafé noisette - 4x100g",
+    "price": "                     1                                      ,15                 €"
+  },
+  {
+    "name": "Desserts Liégois Délisse\nFramboise - 4x100g",
+    "price": "1,69€"
+  },
+  {
+    "name": "Liégeois Délisse\nPistache - 4x100g",
+    "price": "1,46€"
+  },
+  {
+    "name": "Mousse liégeoise Délisse\nAu café - 8x80g",
+    "price": "2,40€"
+  },
+  {
+    "name": "Dessert liégeois VIENNOIS\nChocolat 4x100g",
+    "price": "1,50€"
+  },
+  {
+    "name": "Viennois Nestlé\nVanille lit de caramel - 4x100g",
+    "price": "1,66€"
+  },
+  {
+    "name": "Dessert liégeois VIENNOIS\nCafé 4x100g",
+    "price": "1,52€"
+  },
+  {
+    "name": "Dessert liégeois VIENNOIS\nChocolat 12x100g",
+    "price": "3,78€"
+  },
+  {
+    "name": "Dessert liégeois VIENNOIS\nPanaché chocolat café 8x100g",
+    "price": "2,84€"
+  },
+  {
+    "name": "Mousse liégeoise Viennois\nNestlé Chocolat - 4x90g",
+    "price": "1,60€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nChocolat - 4x100g",
+    "price": "1,00€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nChocolat Café - 8x100g",
+    "price": "2,00€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nVanille Caramel - 8x100g",
+    "price": "1,96€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nVanille Chocolat - 8x100g",
+    "price": "2,55€"
+  },
+  {
+    "name": "Dessert Liégeois Délisse\nChocolat - 12x100g",
+    "price": "                     2                                      ,86                 €"
+  },
+  {
+    "name": "Liégeois Viennois Nestlé\nFraise - 4x100g",
+    "price": "1,79€"
+  },
+  {
+    "name": "liégeois chocolat\ndanette - 4x100g",
+    "price": "1,52€"
+  },
+  {
+    "name": "liégeois vanille\ndanette - 4x100g",
+    "price": "1,51€"
+  },
+  {
+    "name": "liégeois café\ndanette - 4x100g",
+    "price": "1,41€"
+  },
+  {
+    "name": "liégeois chocolat vanille\ndanette - 8x100g",
+    "price": "3,01€"
+  },
+  {
+    "name": "liégeois chocolat\ndanette - 12x100g",
+    "price": "4,59€"
+  },
+  {
+    "name": "Liégois de fruits Andros\nAbricot coulis framboise 4x100g",
+    "price": "2,25€"
+  },
+  {
+    "name": "Liegeois Andros\nPomme/mangue/passion 4x100g",
+    "price": "2,25€"
+  },
+  {
+    "name": "Coeur de Liégeois Mamie Nova\nCappuccino x2 - 240g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Liégeois au Yaourt La Laitière\nFraise framboise - 4x100g",
+    "price": "2,28€"
+  },
+  {
+    "name": "Liégeois au Yaourt La Laitière\nFraise - 4x100g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Liégeois au yaourt La Laitière\nCerise et Myrtille - 4x100g",
+    "price": "                     2                                      ,39                 €"
+  },
+  {
+    "name": "P'tit vanille lait Delisse\n6x70g",
+    "price": "1,50€"
+  },
+  {
+    "name": "Flan vanille Eco+\nNappé caramel - 12x100g",
+    "price": "1,74€"
+  },
+  {
+    "name": "Flan nappé caramel Bio\nBio Village - 4x125g",
+    "price": "1,95€"
+  },
+  {
+    "name": "Flan Délisse\nChocolat - 12x100g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Flan Délisse\nVanille Caramel - 12x100g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Flan Délisse\nVanille Caramel - 16x100g",
+    "price": "                     2                                      ,52                 €"
+  },
+  {
+    "name": "Flan Délisse\nVanille Caramel - 4x100g",
+    "price": "0,79€"
+  },
+  {
+    "name": "Flan aromatisé vanille Flanby\nnappé de caramel - 6x100g",
+    "price": "1,48€"
+  },
+  {
+    "name": "Flan aromatisé vanille Flanby\nnappé de caramel - 12x100g",
+    "price": "                     2                                      ,60                 €"
+  },
+  {
+    "name": "Flan bio les 2 vaches\nVanille caramel - 4x100g",
+    "price": "2,13€"
+  },
+  {
+    "name": "Petit suisse NESQUIK\nChocolat 6x60g",
+    "price": "1,45€"
+  },
+  {
+    "name": "Petit suisse Nesquik\nChocolat noisette - 6x60g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Génoise fourrée Kinder Pingui\nLait et cacao x8 - 240g",
+    "price": "2,39€"
+  },
+  {
+    "name": "choco snack Milka\n4x32g",
+    "price": "2,32€"
+  },
+  {
+    "name": "Barres Snack Bounty\nx6 - 180g",
+    "price": "                     3                                      ,90                 €"
+  },
+  {
+    "name": "Biscuits chocolat au lait\nNesquik Snack x4 - 104g",
+    "price": "1,28€"
+  },
+  {
+    "name": "Riz au lait Délisse\nVanille - 4x115g",
+    "price": "1,33€"
+  },
+  {
+    "name": "Semoule au lait Délisse\nVanille - 4x115g",
+    "price": "1,04€"
+  },
+  {
+    "name": "Riz au lait Délisse\nSur lit de caramel - 4x115g",
+    "price": "1,75€"
+  },
+  {
+    "name": "Riz au lait Délisse\nRhum Raisin - 4x115g",
+    "price": "1,79€"
+  },
+  {
+    "name": "Riz au lait Délisse\nVanille - 8x115g",
+    "price": "2,11€"
+  },
+  {
+    "name": "Gâteaux de riz Délisse\n4x100g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Gâteau de riz Délisse\n500g",
+    "price": "1,86€"
+  },
+  {
+    "name": "Semoule au lait Délisse\nVanille - 8x115g",
+    "price": "2,37€"
+  },
+  {
+    "name": "Gâteaux de semoule Délisse\n4x100g",
+    "price": "2,16€"
+  },
+  {
+    "name": "Riz au lait Eco+\nSaveur vanille 200g",
+    "price": "0,55€"
+  },
+  {
+    "name": "Riz au lait La Laitière\nVanille - 4x115g",
+    "price": "1,55€"
+  },
+  {
+    "name": "Riz au lait La Laitière\nRhum raisin - 4x115g",
+    "price": "2,12€"
+  },
+  {
+    "name": "Semoule au lait La Laitière\nVanille - 4x115g",
+    "price": "                     1                                      ,76                 €"
+  },
+  {
+    "name": "Riz au lait La Laitière\nVanille - 8x115g",
+    "price": "3,12€"
+  },
+  {
+    "name": "Riz au lait la Laitière\nSaveur vanille - 500g",
+    "price": "2,17€"
+  },
+  {
+    "name": "Semoule au lait La Laitière\nNature - 4x115g",
+    "price": "1,76€"
+  },
+  {
+    "name": "Gâteaux de riz La Laitière\nCaramel - 4x100g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Gâteau de riz La Laitiere\n500g",
+    "price": "2,26€"
+  },
+  {
+    "name": "Riz au lait Bonne Maman\nVanille Naturelle - 4x100g",
+    "price": "2,31€"
+  },
+  {
+    "name": "Semoule au lait Bonne Maman\nCaramel - 400g",
+    "price": "2,31€"
+  },
+  {
+    "name": "Semoule au lait Bonne Maman\nVanille Naturelle - 4x100g",
+    "price": "2,30€"
+  },
+  {
+    "name": "Coeur fondant chocolat Equador\n2x90g",
+    "price": "2,13€"
+  },
+  {
+    "name": "Moelleux au chocolat Equador\n4x80g",
+    "price": "2,85€"
+  },
+  {
+    "name": "Profiteroles Délisse\n4x90g",
+    "price": "                     2                                      ,79                 €"
+  },
+  {
+    "name": "Tiramisu au spéculoos Equador\n2x100g",
+    "price": "2,25€"
+  },
+  {
+    "name": "Tiramisu à la Framboise Equador\n2x100g",
+    "price": "2,45€"
+  },
+  {
+    "name": "Tiramisu au Citron Equador\n2x100g",
+    "price": "2,44€"
+  },
+  {
+    "name": "Tiramisu Délisse\nAu café - 4x80g",
+    "price": "2,29€"
+  },
+  {
+    "name": "Tiramisu Délisse\n500g",
+    "price": "3,39€"
+  },
+  {
+    "name": "Préparation pour crème brûlée\nDélisse 4x100g",
+    "price": "2,54€"
+  },
+  {
+    "name": "Préparation pour crème brûlée\nDélisse - 2x100g",
+    "price": "1,39€"
+  },
+  {
+    "name": "Crème aux oeufs Délisse\nVanille - 4x100g",
+    "price": "1,53€"
+  },
+  {
+    "name": "Crème aux oeufs Délisse\nLit caramel - 4x100g",
+    "price": "1,65€"
+  },
+  {
+    "name": "Crème aux oeufs Delisse\nCoco lit caramel - 4x100g",
+    "price": "2,38€"
+  },
+  {
+    "name": "Flan aux oeufs Délisse\n4x100g",
+    "price": "2,95€"
+  },
+  {
+    "name": "Crème caramel Délisse\n4x100g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Ile flottante Délisse\nCrème anglaise - 4x100g",
+    "price": "                     1                                      ,91                 €"
+  },
+  {
+    "name": "Île Flottante Délisse\nNappage Mangue passion - 4x100g",
+    "price": "2,55€"
+  },
+  {
+    "name": "Clafoutis Délisse\nAbricot - 4x85g",
+    "price": "2,46€"
+  },
+  {
+    "name": "Crème caramel Délisse\n8x100g",
+    "price": "2,97€"
+  },
+  {
+    "name": "Crème oncteuse Délisse\nAu caramel - 2x90g",
+    "price": "2,14€"
+  },
+  {
+    "name": "Panna Cotta Délisse\nCaramel - 4x90g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Clafoutis aux cerises Délisse\n4x85g",
+    "price": "2,34€"
+  },
+  {
+    "name": "Baba au rhum Délisse\n2x150g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Tiramisu Eco+\n2x80g",
+    "price": "1,12€"
+  },
+  {
+    "name": "Crème brûlée La laitière\nSachet sucre - 4x100g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Île flottante La Laitière\nSachet caramel - 4x100g",
+    "price": "3,39€"
+  },
+  {
+    "name": "Crème aux oeufs La laitière\nSur lit de caramel - 4x100g",
+    "price": "1,95€"
+  },
+  {
+    "name": "Crème aux oeufs La Laitière\nVanille - 4x100g",
+    "price": "1,97€"
+  },
+  {
+    "name": "Profiteroles La Laitière\nChocolat - 4x90g",
+    "price": "3,49€"
+  },
+  {
+    "name": "Clafoutis La Laitière\nAux cerises - 4x85g",
+    "price": "2,74€"
+  },
+  {
+    "name": "Amandine aux poires La Laitière\n4x85g",
+    "price": "2,53€"
+  },
+  {
+    "name": "Clafoutis La Laitière\nAux abricots - 4x85g",
+    "price": "2,94€"
+  },
+  {
+    "name": "Carré fondant Rians\nAu chocolat - 2x110g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Panna Cotta Fruits rouges Rians\n2x120g",
+    "price": "2,68€"
+  },
+  {
+    "name": "Crème brulée Rians\n3x100g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Crème brulée Bonne Maman\n2x100g",
+    "price": "2,28€"
+  },
+  {
+    "name": "Coeur Coulant Bonne Maman\nChocolat - 2x80g",
+    "price": "3,04€"
+  },
+  {
+    "name": "Tarte citron meringuée\nBonne Maman - 2x90g",
+    "price": "2,13€"
+  },
+  {
+    "name": "Baba au rhum Bonne Maman\n2x140g",
+    "price": "2,31€"
+  },
+  {
+    "name": "Crème caramel Bonne Maman\nAux oeufs frais - 4x100g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Oréo fresh milk snack\n4x30g",
+    "price": "2,18€"
+  },
+  {
+    "name": "Ile gourmande Yoplait\nVanille - 6x101g",
+    "price": "2,90€"
+  },
+  {
+    "name": "Paris Brest Mamie Nova\n2x90g",
+    "price": "2,54€"
+  },
+  {
+    "name": "Dessert gourmand Mamie Nova\nTiramisu cappuccino - 2x85g",
+    "price": "1,84€"
+  },
+  {
+    "name": "Tourteau fromagé du Poitou\nNos régions ont du Talent 250g",
+    "price": "2,85€"
+  },
+  {
+    "name": "Spécialité au soja Nat&Vie\nCafé - 4x100g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Spécialité au soja Nat & Vie\nChocolat - 4x100g",
+    "price": "1,29€"
+  },
+  {
+    "name": "Spécialité au soja Nat & Vie\nFruits rouges - 4x100g",
+    "price": "1,45€"
+  },
+  {
+    "name": "Spécialité au soja Nat & Vie\nFramboise-passion 4x100g",
+    "price": "1,41€"
+  },
+  {
+    "name": "Spécialité au soja nature\nNat & Vie - 6x100g",
+    "price": "1,62€"
+  },
+  {
+    "name": "Spécialité au soja Nat & Vie\nVanille - 4x100g",
+    "price": "1,39€"
+  },
+  {
+    "name": "Dessert végétal soja alpro\nNature à l'avoine - 500g",
+    "price": "1,64€"
+  },
+  {
+    "name": "Dessert végétal soja alpro\nVanille - 500g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Dessert végétal soja alpro\nNature à l'amande - 500g",
+    "price": "1,84€"
+  },
+  {
+    "name": "Dessert végétal Alpro\nPêche - 500g",
+    "price": "2,35€"
+  },
+  {
+    "name": "Dessert végétal soja Alpro\nfruits rouges dattes - 400g",
+    "price": "2,29€"
+  },
+  {
+    "name": "Mousse végétal Andros\nChocolat - 4x55g",
+    "price": "2,94€"
+  },
+  {
+    "name": "Brassé végétal Andros\nPêche - 4x100g",
+    "price": "2,48€"
+  },
+  {
+    "name": "Brassé végétal Andros\nFraise - 4x100g",
+    "price": "2,48€"
+  },
+  {
+    "name": "Brassé végétal Andros\nFramboise - 400g",
+    "price": "2,29€"
+  },
+  {
+    "name": "Brassé végétal\nCitron - 4x100g",
+    "price": "2,48€"
+  },
+  {
+    "name": "Liégeois lait d'amande chocolat\nAndros - 4x90g",
+    "price": "2,80€"
+  },
+  {
+    "name": "Liégeois au café Andros\nAu lait d'amande - 4x90g",
+    "price": "2,59€"
+  },
+  {
+    "name": "Semoule au lait de coco Andros\nVanille de Madagascar - 4x100g",
+    "price": "2,89€"
+  },
+  {
+    "name": "Riz au lait Andros\nCoco vanille - 4x100g",
+    "price": "3,09€"
+  },
+  {
+    "name": "Sojasun mandarine citron vert\n4x100g",
+    "price": "1,68€"
+  },
+  {
+    "name": "Dessert végétal Sojasun\nChocolat - 6x100g",
+    "price": "2,37€"
+  },
+  {
+    "name": "Dessert végétal Sojasun\nCafé - 4x100g",
+    "price": "                     1                                      ,77                 €"
+  },
+  {
+    "name": "Dessert végétal Sojasun\nPistache - 4x100g",
+    "price": "1,85€"
+  },
+  {
+    "name": "Dessert fruits mixés Sojasun\nAbricot / Goyave - 4x100g",
+    "price": "                     1                                      ,65                 €"
+  },
+  {
+    "name": "Dessert fruits mixés Sojasun\nFramboise / Passion - 4x100g",
+    "price": "                     1                                      ,66                 €"
+  },
+  {
+    "name": "Dessert végétal au soja Sojasun\nNature - 12x100g",
+    "price": "3,15€"
+  },
+  {
+    "name": "Dessert fruits mixés Sojasun\nCitron - 4x100g",
+    "price": "1,63€"
+  },
+  {
+    "name": "Dessert aux fruits Sojasun\nMorceaux de cerises - 4x100g",
+    "price": "1,68€"
+  },
+  {
+    "name": "Dessert fruits mixés Sojasun\nMyrtilles - 4x100g",
+    "price": "1,77€"
+  },
+  {
+    "name": "Dessert végétal Sojasun\nVanille - 6x100g",
+    "price": "2,37€"
+  },
+  {
+    "name": "Crème dessert Sojasun\nCaramel pointe de sel - 4x100g",
+    "price": "1,83€"
+  },
+  {
+    "name": "Dessert Végétal Charles & Alice\nVégétal Coco Chocolat 2X110G",
+    "price": "1,88€"
+  },
+  {
+    "name": "Dessert Végétal Charles & Alice\nVégétal Coco Marron 2X110G",
+    "price": "1,88€"
+  },
+  {
+    "name": "Dessert Charles & Alice\nCoco/Stracciatela - 2x110g",
+    "price": "1,88€"
+  }
+]

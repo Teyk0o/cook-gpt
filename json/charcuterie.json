@@ -1,0 +1,1574 @@
+[
+  {
+    "name": "Saucisse sèche Saint Azay\nQualité supérieure - 250g",
+    "price": "3,05€"
+  },
+  {
+    "name": "Saucisse sèche Saint Azay\nQualité supérieure - 300g",
+    "price": "3,78€"
+  },
+  {
+    "name": "Saucisson sec Saint-Azay\nPur porc - 250g",
+    "price": "4,09€"
+  },
+  {
+    "name": "Saucisse sèche Saint-Azay\nAux noisettes - 250g",
+    "price": "3,40€"
+  },
+  {
+    "name": "Saucisson sec Saint-Azay\nMaxi format - 600g",
+    "price": "7,68€"
+  },
+  {
+    "name": "Saucisson sec Saint Azay\nSpécialité 200g",
+    "price": "3,15€"
+  },
+  {
+    "name": "Spécialité de saucisse St Azay\nSèche - 200g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Fuet catalan Saint Azay\n170g",
+    "price": "2,09€"
+  },
+  {
+    "name": "Saucissons secs Saint Azay\nStick nature 100g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Mini Saucissons secs Saint Azay\nAux noix - 75g",
+    "price": "1,43€"
+  },
+  {
+    "name": "Saucisson sec Saint Azay\nStick au noix 100g",
+    "price": "2,19€"
+  },
+  {
+    "name": "Saucisson à l'ail Tradilège\nFumé - 300g",
+    "price": "2,18€"
+  },
+  {
+    "name": "Saucisson à l'ail Tradilège\nNature - 300g",
+    "price": "2,55€"
+  },
+  {
+    "name": "Saucisse sèche d'Auvergne\nNos Régions ont du Talent 300g",
+    "price": "5,88€"
+  },
+  {
+    "name": "Saucisson sec d'auvergne\nNos Régions ont du Talent 300g",
+    "price": "5,88€"
+  },
+  {
+    "name": "Saucisse sèche fleur gris-vert\nNos Régions ont du Talent 250g",
+    "price": "5,77€"
+  },
+  {
+    "name": "Saucisson sec supérieur Pyrénée\nNos Régions Ont Du Talent 250g",
+    "price": "5,34€"
+  },
+  {
+    "name": "Saucisse à la perche d'Aveyron\nNos régions ont du Talent 320g",
+    "price": "6,83€"
+  },
+  {
+    "name": "Saucisson sec fleur gris-vert\nNos Régions ont du Talent 280g",
+    "price": "                     5                                      ,77                 €"
+  },
+  {
+    "name": "Saucissons des Cévènes Nos\nRégions ont du Talent 3x115g",
+    "price": "6,55€"
+  },
+  {
+    "name": "Saucisse sèche Eco+\nCourbé - 300g",
+    "price": "3,09€"
+  },
+  {
+    "name": "Saucisse sèche droite Eco+\n250g",
+    "price": "1,90€"
+  },
+  {
+    "name": "Saucisson Justin Bridou\nBâton de Berger Nature 250g",
+    "price": "4,39€"
+  },
+  {
+    "name": "Saucisson Petit Justin Bridou\nBâton de Berger Nature - 100g",
+    "price": "2,60€"
+  },
+  {
+    "name": "Saucisson Mini Justin Bridou\nBâton de Berger - 100g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Saucisson Justin Bridou\nBâton de Berger Noisette - 250g",
+    "price": "4,80€"
+  },
+  {
+    "name": "Saucisson Saint Agaûne\n205g",
+    "price": "5,01€"
+  },
+  {
+    "name": "Saucisson Saint Agaûne\n320g",
+    "price": "7,09€"
+  },
+  {
+    "name": "Petites tranches Saint-Agaûne\nNature - 70g",
+    "price": "2,73€"
+  },
+  {
+    "name": "Petites tranches Saint-Agaûne\nDélicatement fumé - 70g",
+    "price": "2,73€"
+  },
+  {
+    "name": "Saucisson sec Saint Agaûne\nLa fine - 205g",
+    "price": "4,46€"
+  },
+  {
+    "name": "Saucisson sec Saint Agaûne\nAu comté - 120g",
+    "price": "3,67€"
+  },
+  {
+    "name": "Saucisson Le Généreux Cochonou\n365g",
+    "price": "5,84€"
+  },
+  {
+    "name": "Saucisson le Classique Cochonou\nsans conservateur - 240g",
+    "price": "4,03€"
+  },
+  {
+    "name": "Saucisson le Familial Cochonou\n600g",
+    "price": "8,41€"
+  },
+  {
+    "name": "Saucisson Fuet César Moroni\n170g",
+    "price": "3,43€"
+  },
+  {
+    "name": "Saucisson cuit à l'ail Herta\n300g",
+    "price": "3,02€"
+  },
+  {
+    "name": "Mini bûchettes chèvre\n120g",
+    "price": "3,75€"
+  },
+  {
+    "name": "Les minis bûchettes Galibier\nNature - 120g",
+    "price": "3,28€"
+  },
+  {
+    "name": "Les minis bûchettes Galibier\nAu comté - 120g",
+    "price": "3,75€"
+  },
+  {
+    "name": "Chorizo Saint Azay\nDoux 225g",
+    "price": "1,97€"
+  },
+  {
+    "name": "Chorizo Saint Azay fort\nPur porc piment d'Espagne 225g",
+    "price": "1,97€"
+  },
+  {
+    "name": "Chorizo Saint Azay flamenco\nExtra fort 225g",
+    "price": "1,97€"
+  },
+  {
+    "name": "Chorizo fort Eco+\n250g",
+    "price": "1,69€"
+  },
+  {
+    "name": "Chorizo doux Eco+\n250g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Chorizo doux César Moroni\n200g",
+    "price": "3,14€"
+  },
+  {
+    "name": "Chorizo fort César Moroni\n200g",
+    "price": "3,03€"
+  },
+  {
+    "name": "IGP Jambon Serrano Saint Azay\n6 tranches - 100g",
+    "price": "1,72€"
+  },
+  {
+    "name": "Jambon sec Saint Azay\n8 tranches - 200g",
+    "price": "4,13€"
+  },
+  {
+    "name": "Quart de jambon sec Saint Azay\n18 tranches - 220g",
+    "price": "3,69€"
+  },
+  {
+    "name": "Viande de boeuf Saint Azay\nSéchée 10 tranches 80g",
+    "price": "3,79€"
+  },
+  {
+    "name": "Viande des grisons Saint Azay\n10 tranches - 80g",
+    "price": "3,59€"
+  },
+  {
+    "name": "Jambon Italien Saint Azay\nx6 - 100g",
+    "price": "1,85€"
+  },
+  {
+    "name": "Jambon cru Eco+\n8 tranches - 150g",
+    "price": "1,79€"
+  },
+  {
+    "name": "IGP Jambon de bayonne\nNos Régions ont du Talent 120g",
+    "price": "3,99€"
+  },
+  {
+    "name": "Jambon d'Auvergne\nNos Régions ont du Talent 100g",
+    "price": "3,53€"
+  },
+  {
+    "name": "Jambon sec de Savoie\nNos Régions ont du Talent 90g",
+    "price": "2,65€"
+  },
+  {
+    "name": "Jambon cru 4 tranches Aoste\nsans conservateur - 100g",
+    "price": "4,34€"
+  },
+  {
+    "name": "Jambon cru 6 tranches Aoste\nsans conservateur - 165g",
+    "price": "5,04€"
+  },
+  {
+    "name": "Jambon cru 4 tranches Aoste\ndégraissées - 100g",
+    "price": "4,55€"
+  },
+  {
+    "name": "Jambon cru Aoste Quart Tranché\nsans conservateur - x18 - 220g",
+    "price": "5,37€"
+  },
+  {
+    "name": "Jambon cru Quart Tranché Aoste\nSerrano - 18 tranches - 220g",
+    "price": "5,37€"
+  },
+  {
+    "name": "Chiffonnade de jambon sec\nSaint Azay affiné 7 mois - 100g",
+    "price": "3,35€"
+  },
+  {
+    "name": "Jambon Réserva 12 mois\n100g",
+    "price": "2,92€"
+  },
+  {
+    "name": "Chorizo Espagnol Merle\n16 tranches - 80g",
+    "price": "1,20€"
+  },
+  {
+    "name": "Rosette de Lyon\n9 tranches - 80g",
+    "price": "                     1                                      ,20                 €"
+  },
+  {
+    "name": "Filet de bacon Merle\n8 tranches - 80g",
+    "price": "1,20€"
+  },
+  {
+    "name": "Pancetta italienne Saint Azay\n10 tranches - 100g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Saucisson sec\n15 tranches - 150g",
+    "price": "2,19€"
+  },
+  {
+    "name": "Saucisson sec Saint-Azay\n30 tranches - 100g",
+    "price": "1,46€"
+  },
+  {
+    "name": "Saucisson sec saint-Azay\nAu comté - 30 tranches - 100g",
+    "price": "3,12€"
+  },
+  {
+    "name": "Saucisson sec Tranché Cochonou\n30 tranches - 93g",
+    "price": "1,79€"
+  },
+  {
+    "name": "Rosette de lyon Saint Azay\n10 tranches - 100g",
+    "price": "2,91€"
+  },
+  {
+    "name": "Chiffonades de rosette\nSaint Azay - 100g",
+    "price": "2,00€"
+  },
+  {
+    "name": "Rosette de Lyon Saint-Azay\nx10 tranches - 100g",
+    "price": "1,42€"
+  },
+  {
+    "name": "Rosette pur porc Eco+\n12 tranches - 150g",
+    "price": "1,42€"
+  },
+  {
+    "name": "Cornichons Eco+\nAu vinaigre - 190g",
+    "price": "0,89€"
+  },
+  {
+    "name": "Rosette tranchée Cochonou\n10 tranches - 93g",
+    "price": "1,90€"
+  },
+  {
+    "name": "Rosette Justin Bridou\n19 Tranches - 170g",
+    "price": "2,88€"
+  },
+  {
+    "name": "Pavé au poivre Saint Azay\n8 tranches - 150g",
+    "price": "2,93€"
+  },
+  {
+    "name": "Salami Danois Saint-Azay\nx16 - 160g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Coppa italienne Saint Azay\n10 tranches 100 g",
+    "price": "2,15€"
+  },
+  {
+    "name": "Coppa Saint Azay\nChiffonnade - 100g",
+    "price": "                     3                                      ,25                 €"
+  },
+  {
+    "name": "Bacon Saint Azay\nx15 - 150g",
+    "price": "2,19€"
+  },
+  {
+    "name": "Bacon Saint Azay\n100g",
+    "price": "1,72€"
+  },
+  {
+    "name": "Lomo Saint Azay\n100g",
+    "price": "3,42€"
+  },
+  {
+    "name": "Bacon empilé Eco+\n12 tranches - 150g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Bacon Herta superposé\nx15 150g",
+    "price": "2,11€"
+  },
+  {
+    "name": "Bacon Justin Bridou\n16 Tranches - 160g",
+    "price": "2,98€"
+  },
+  {
+    "name": "Chorizo espagnol Saint Azay\n30 tranches - 150g",
+    "price": "2,10€"
+  },
+  {
+    "name": "Chorizo espagnol fort\nx30 - 150g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Chorizo Saint Azay\nChiffonade - 100g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Chorizo tranché César Moroni\nDoux 20 tranches - 100g",
+    "price": "1,97€"
+  },
+  {
+    "name": "Plateau charcuterie Petitgas\n4 saisons, assortiment - 300g",
+    "price": "6,83€"
+  },
+  {
+    "name": "Plateau Grandissimo\n280g",
+    "price": "7,50€"
+  },
+  {
+    "name": "Plateau de chiffonnade\n280g",
+    "price": "7,50€"
+  },
+  {
+    "name": "Magret canard fumé sud ouest\nNos Régions ont du Talent - 90g",
+    "price": "4,31€"
+  },
+  {
+    "name": "Magret de canard séché\nNos Régions ont du Talent - 90g",
+    "price": "4,15€"
+  },
+  {
+    "name": "IGP Magret de Canard Montfort\nSud ouest fumé bois hètre - 80g",
+    "price": "4,06€"
+  },
+  {
+    "name": "Viande des Grisons Aoste\n10 Tranches - 70g",
+    "price": "4,95€"
+  },
+  {
+    "name": "Filet mignon séché\n30 T - 75g",
+    "price": "3,45€"
+  },
+  {
+    "name": "Foie gras Pierre de Chaumeyrac\nCanard - 2x40g",
+    "price": "6,05€"
+  },
+  {
+    "name": "Foie gras Pierre de Chaumeyrac\nBloc - 200g",
+    "price": "10,49€"
+  },
+  {
+    "name": "Pâté de campagne Tradilège\nSupérieur 180g",
+    "price": "1,58€"
+  },
+  {
+    "name": "Pâté de campagne Tradilège\n150g",
+    "price": "1,72€"
+  },
+  {
+    "name": "Pâté Campagne Supérieur\nL'Atelier Charcuterie - 170g",
+    "price": "2,09€"
+  },
+  {
+    "name": "Pâté de campagne Breton\nL'Atelier Charcuterie - 170g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Rillettes de canard Tradilège\n220g",
+    "price": "2,72€"
+  },
+  {
+    "name": "Rillettes du Mans Tradilège\n220g",
+    "price": "2,56€"
+  },
+  {
+    "name": "Rillettes du Mans Tradilège\n220g",
+    "price": "1,57€"
+  },
+  {
+    "name": "Rillettes Tradilège poulet\n110g",
+    "price": "1,55€"
+  },
+  {
+    "name": "Rillettes du Mans Tradilège\n400g",
+    "price": "2,80€"
+  },
+  {
+    "name": "Rillettes Tradilège poulet rôti\n400g Format familial",
+    "price": "3,60€"
+  },
+  {
+    "name": "Rillettes Tradilège poulet rôti\n220g",
+    "price": "1,88€"
+  },
+  {
+    "name": "Rillettes de poulet rôti\nBordeau Chestel - 220g",
+    "price": "2,42€"
+  },
+  {
+    "name": "Rillettes de porc Label Rouge\nL'Atelier Charcuterie - 170g",
+    "price": "3,49€"
+  },
+  {
+    "name": "Mousse de canard Tradilège\n2x50g",
+    "price": "1,24€"
+  },
+  {
+    "name": "Mousse de canard Tradilège\n180g",
+    "price": "1,61€"
+  },
+  {
+    "name": "Mousse de foie Tradilège\nSupérieure 180g",
+    "price": "1,41€"
+  },
+  {
+    "name": "Mousse de foie Tradilège\n2x50g",
+    "price": "1,09€"
+  },
+  {
+    "name": "Mousse de canard Tradilège\n150g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Terrine lapin Tradilège\naux noisettes 150g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Mousse aux cèpes Tradilège\net champignons noirs 180g",
+    "price": "1,62€"
+  },
+  {
+    "name": "Mousse de canard Eco+\n200g",
+    "price": "1,25€"
+  },
+  {
+    "name": "Mousse de canard Madrange\nAu porto - 180g",
+    "price": "1,90€"
+  },
+  {
+    "name": "Terrine de canard Montfort\nA l'ancienne - 145g",
+    "price": "                     2                                      ,68                 €"
+  },
+  {
+    "name": "Terrine de campagne Prunier\n160g",
+    "price": "2,38€"
+  },
+  {
+    "name": "Terrine de campagne forestière\nL'Atelier Charcuterie - 170g",
+    "price": "2,69€"
+  },
+  {
+    "name": "Terrine de canard cœur mousse\nL'Atelier Charcuterie - 170g",
+    "price": "3,49€"
+  },
+  {
+    "name": "Terrine de lapin recette trad.\nL'Atelier Charcuterie - 170g",
+    "price": "3,31€"
+  },
+  {
+    "name": "Mousse de canard Tradilège\n220g",
+    "price": "3,49€"
+  },
+  {
+    "name": "Mousse de canard Supérieure\nL'Atelier Charcuterie - 170g",
+    "price": "2,71€"
+  },
+  {
+    "name": "Mousse de foie Supérieure\nL'Atelier Charcuterie - 170g",
+    "price": "                     2                                      ,19                 €"
+  },
+  {
+    "name": "Mousse forestière Supérieure\nMédaille d'or CGA 2017 - 170g",
+    "price": "2,72€"
+  },
+  {
+    "name": "Fromage de tête au jambon VPF\nL'Atelier Charcuterie - 170g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nS/nitrite Découenne - x6 - 210g",
+    "price": "3,60€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nSans nitrite x4 - 140g",
+    "price": "2,35€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nLabel rouge - 4 tranches - 160g",
+    "price": "3,54€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nAvec couenne 8 tranches - 320g",
+    "price": "4,65€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nAvec couenne 6 tranches - 240g",
+    "price": "3,50€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nAvec couenne 4 tranches - 160g",
+    "price": "2,36€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nLabel rouge découenné x4 - 160g",
+    "price": "2,88€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\n640g",
+    "price": "10,09€"
+  },
+  {
+    "name": "Jambon Supérieur VPF Tradilège\nA l'étouffée Découennéx10 -400g",
+    "price": "6,55€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nSans couenne x8 - 320g",
+    "price": "4,51€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nDécouenné dégraissé x6 - 240g",
+    "price": "4,11€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nDécouenné dégraissé x4 - 160g",
+    "price": "2,75€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\n-25%de sel - 6 tranches - 240g",
+    "price": "3,46€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\n-25% de sel - Découenné x4-160g",
+    "price": "2,35€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\n-25% de sel - Découenné x2-80g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Jambon de Paris Tradilège\nDécouenné dégraissé x10 - 400g",
+    "price": "4,18€"
+  },
+  {
+    "name": "Jambon de Paris Tradilège\nÀ l'étouffée x8 - 320g",
+    "price": "3,44€"
+  },
+  {
+    "name": "Jambon de Paris Tradilège\nDécouenné dégraissé x6 - 240g",
+    "price": "2,61€"
+  },
+  {
+    "name": "Jambon de Paris Tradilège\nA l'étouffé - 160g",
+    "price": "1,96€"
+  },
+  {
+    "name": "Jambon de Paris Tradilège\nDécouenné - 2 tranches - 80g",
+    "price": "1,34€"
+  },
+  {
+    "name": "Jambon de Paris Tradilège\n-25% de sel - 6 tranches - 210g",
+    "price": "2,62€"
+  },
+  {
+    "name": "Jambon de Paris Tradilège\n-25% de sel - 4 tranches - 140g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\n-25% de sel - Torchon - x4 160g",
+    "price": "3,25€"
+  },
+  {
+    "name": "Jambon supérieur Tradilège\nTorchon 4 tranches 160g",
+    "price": "2,82€"
+  },
+  {
+    "name": "Jambon blanc Tradilège\nA l'italienne 4 tranches 120g",
+    "price": "2,43€"
+  },
+  {
+    "name": "Epaule Tradilège découennée\nDégraissée x6 240g",
+    "price": "3,55€"
+  },
+  {
+    "name": "Jambon à griller Tradilège\n2 tranches 160g",
+    "price": "2,33€"
+  },
+  {
+    "name": "Jambon sup. sans couenne Eco+\nVPF 6 Tranches - 240g",
+    "price": "2,68€"
+  },
+  {
+    "name": "Jambon sup. avec couenne Eco+\nVPF 6 Tranches - 240g",
+    "price": "2,42€"
+  },
+  {
+    "name": "Jambon supérieur Bio Village\nDécouenné Bio 4T - 140g",
+    "price": "4,76€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\nsans nitrite x2 - 70g",
+    "price": "1,98€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\nsans nitrite x4 - 140g",
+    "price": "2,67€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\nsans nitrite x6 - 210g",
+    "price": "4,25€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\n-25% sel sans nitrite- x2 - 70g",
+    "price": "2,11€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\n-25% sel sans nitrite x4 - 140g",
+    "price": "3,37€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\n-25% sel sans nitrite x6 - 210g",
+    "price": "4,96€"
+  },
+  {
+    "name": "Jambon Simplement Bon Fleury\nMichon x4 - 160g",
+    "price": "2,32€"
+  },
+  {
+    "name": "Jambon Simplement Bon Fleury\nMichon - x6 - 240g",
+    "price": "3,44€"
+  },
+  {
+    "name": "Jambon Simplement Bon\nFleury Michon - x8 - 320g",
+    "price": "                     4                                      ,92                 €"
+  },
+  {
+    "name": "Jambon Simplement Bon Fleury\nMichon -25% sel x8 - 280g",
+    "price": "5,27€"
+  },
+  {
+    "name": "Jambon Simplement Bon Fleury\nMichon -25% de sel - x2 - 70g",
+    "price": "1,77€"
+  },
+  {
+    "name": "Jambon Simplement Bon Fleury\nMichon -25% de sel x4 - 140g",
+    "price": "2,86€"
+  },
+  {
+    "name": "Jambon Simplement Bon Fleury\nMichon -25% de sel - x6 - 210g",
+    "price": "4,09€"
+  },
+  {
+    "name": "Jambon Torchon Fleury Michon\n-25% de sel x2 - 80g",
+    "price": "2,18€"
+  },
+  {
+    "name": "Jambon Tranché Fin Fleury\nMichon -25% de sel x4 - 120g",
+    "price": "2,60€"
+  },
+  {
+    "name": "Jambon Tranché Fin FleuryMichon\nà l'italienne x4 - 120g",
+    "price": "2,74€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\nLabel Rouge - x2 - 80g",
+    "price": "2,60€"
+  },
+  {
+    "name": "Jambon Supérieur Fleury Michon\nLabel Rouge - x4 - 160g",
+    "price": "                     4                                      ,21                 €"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffé x2 - 85g",
+    "price": "1,62€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffée x4 - 170g",
+    "price": "2,31€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffée x6 - 255g",
+    "price": "3,27€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffée x8 - 340g",
+    "price": "4,59€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffée x10 - 425g",
+    "price": "5,77€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffée CSN x2 - 70g",
+    "price": "1,93€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffée CSN x4 - 140g",
+    "price": "3,25€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ l'étouffée CSN x6 - 210g",
+    "price": "4,42€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\n-25% de sel x2 - 70g",
+    "price": "1,58€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\n-25% de sel x4 - 140g",
+    "price": "2,66€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\n-25% de sel x8 - 280g",
+    "price": "4,86€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\n-25% de sel CSN x4 - 140g",
+    "price": "2,95€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\n-25% de sel à la broche x4 140g",
+    "price": "4,07€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nFumé x4 - 140g",
+    "price": "2,69€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nFumé CSN x4 - 140g",
+    "price": "2,89€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nÀ la broche CSN x4 - 140g",
+    "price": "3,40€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nAu torchon x4 - 160g",
+    "price": "3,31€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nAu torchon CSN x4 - 140g",
+    "price": "3,29€"
+  },
+  {
+    "name": "Jambon Le Bon Paris Herta\nAu torchon CSN x6 - 210g",
+    "price": "5,36€"
+  },
+  {
+    "name": "Jambon avec couenne\nL'Atelier Charcuterie x4 - 240g",
+    "price": "                     5                                      ,09                 €"
+  },
+  {
+    "name": "Jambon avec couenne 2 tranches\nL'Atelier Charcuterie -120g",
+    "price": "2,80€"
+  },
+  {
+    "name": "Jambon cuit sans couenne\nL'atelier Charcuterie - 120g",
+    "price": "3,04€"
+  },
+  {
+    "name": "Jambon cuit avec couenne\nL'Atelier Charcuterie - 120g",
+    "price": "2,80€"
+  },
+  {
+    "name": "Jambon découenné dégraissé\nL'Atelier Charcuterie x4 -240g",
+    "price": "                     5                                      ,79                 €"
+  },
+  {
+    "name": "Jambon cuit supérieur\nL'Atelier Charcuterie x4 - 240g",
+    "price": "5,49€"
+  },
+  {
+    "name": "Jambon foué Paul Predault\nA l'os - 4 tranches - 240g",
+    "price": "                     4                                      ,55                 €"
+  },
+  {
+    "name": "Jambon cuit supérieur\n10 tranches - 400g",
+    "price": "6,95€"
+  },
+  {
+    "name": "Jambon avec couenne Le Foué\n4 tranches - 260g",
+    "price": "4,55€"
+  },
+  {
+    "name": "Jambon fumé grill\n10 tranches",
+    "price": "15,14€"
+  },
+  {
+    "name": "Jambonneau Tradilège\nPort cuit supérieur - 250g",
+    "price": "3,20€"
+  },
+  {
+    "name": "Epaules standard Eco+\n8 tranches - 360g",
+    "price": "1,93€"
+  },
+  {
+    "name": "Assortiment charcuterie\nNos Régions ont du Talent 200g",
+    "price": "2,12€"
+  },
+  {
+    "name": "La ballottine Prunier\nBelle Epoque de volaille - 160g",
+    "price": "3,34€"
+  },
+  {
+    "name": "Joue de porc Brient\nAux cornichons - 160g",
+    "price": "5,19€"
+  },
+  {
+    "name": "Mortadelle Italienne Saint Azay\n12 tranches 150g",
+    "price": "2,14€"
+  },
+  {
+    "name": "Mortadelle Italienne Fiorucci\n140g",
+    "price": "2,95€"
+  },
+  {
+    "name": "Rôti de porc Tradilège\nSupérieur Maxiformat 8tr- 240 g",
+    "price": "3,69€"
+  },
+  {
+    "name": "Rôti de porc Tradilège\n6 tranches VPF 180g",
+    "price": "2,75€"
+  },
+  {
+    "name": "Rôti de porc Tradilège\n4 tranches 160g",
+    "price": "2,44€"
+  },
+  {
+    "name": "Rôti de porc Fleury Michon\nLabel Rouge x4 - 160g",
+    "price": "3,60€"
+  },
+  {
+    "name": "Rôti de porc Fleury Michon\nSans nitrite - x4 - 160g",
+    "price": "2,77€"
+  },
+  {
+    "name": "Rôti de porc Fleury Michon -25%\nde sel sans nitrite x6 - 210g",
+    "price": "4,21€"
+  },
+  {
+    "name": "Rôti de porc Fleury Michon\n-25% sel sans nitrite x4 - 160g",
+    "price": "3,42€"
+  },
+  {
+    "name": "Rôti de porc Fleury Michon\nExtra tendre - x4 - 160g",
+    "price": "                     3                                      ,37                 €"
+  },
+  {
+    "name": "Rôti de porc Fleury Michon\nÀ la broche CSN x4 - 140g",
+    "price": "3,39€"
+  },
+  {
+    "name": "Jambon à poêler Fleury Michon\n2x80g",
+    "price": "3,19€"
+  },
+  {
+    "name": "Rôti de porc supérieur\nL'Atelier Charcuterie x4 -180g",
+    "price": "3,68€"
+  },
+  {
+    "name": "Rôti de porc supérieur\nL'Atelier Charcuterie x2 - 90g",
+    "price": "2,09€"
+  },
+  {
+    "name": "Rôti de porc Label Rouge\nL'Atelier Charcuterie - 180g",
+    "price": "3,99€"
+  },
+  {
+    "name": "Roti de boeuf cuit Tradilège\nVBF - 120g",
+    "price": "3,86€"
+  },
+  {
+    "name": "Rôti de boeuf Fleury Michon\nDoré au four x4 - 120g",
+    "price": "4,64€"
+  },
+  {
+    "name": "Haché de jambon Fleury Michon\nÀ poêler x2 - 190g",
+    "price": "2,10€"
+  },
+  {
+    "name": "Haché jambon fromage\nFleury Michon x2 - 180g",
+    "price": "2,18€"
+  },
+  {
+    "name": "Rôti de poulet Tradilège\nSupérieur 4tr - 160g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Blanc de poulet Tradilège\nDoré au four - 240g",
+    "price": "2,63€"
+  },
+  {
+    "name": "Blanc de poulet Tradilège\n6 tranches - 180g",
+    "price": "2,14€"
+  },
+  {
+    "name": "Blanc de poulet Tradilège\nx4 160g",
+    "price": "1,72€"
+  },
+  {
+    "name": "Blanc de poulet Tradilège\nTranché en sel réduit x4 160g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Aiguillettes de poulet rôti\nTradilège 2x75g",
+    "price": "2,29€"
+  },
+  {
+    "name": "Blancs de poulet Eco+\n4 tranches - 180g",
+    "price": "1,35€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\ndoré au four - x8 - 240g",
+    "price": "3,13€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\nDoré au Four x6 - 190g",
+    "price": "2,43€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\nDoré au Four x4 - 160g",
+    "price": "1,91€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\nrôti à la broche x4 - 120g",
+    "price": "1,83€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\nSans nitrite x4 - 130g",
+    "price": "2,33€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\n100% Filet x2 - 65g",
+    "price": "1,35€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\n-25% de sel x8 - 240g",
+    "price": "3,54€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\n-25% de sel x4 - 160g",
+    "price": "2,32€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\n-25% de sel - x2 - 80g",
+    "price": "1,48€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\nfumé x6 - 180g",
+    "price": "2,62€"
+  },
+  {
+    "name": "Filet de poulet rôti Fleury\nMichon sans nitrite x6 - 160g",
+    "price": "3,09€"
+  },
+  {
+    "name": "Filet de poulet Fleury Michon\nRôti 4 tranches - 116g",
+    "price": "2,34€"
+  },
+  {
+    "name": "Rôti de poulet Fleury Michon\n100% filet CSN x4 - 150g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Haché de poulet Fleury Michon\nÀ poêler x2 - 160g",
+    "price": "1,96€"
+  },
+  {
+    "name": "HERTA Blanc de poulet nature\nsans nitrite - 140g 4T",
+    "price": "2,25€"
+  },
+  {
+    "name": "Herta Blanc de poulet -25%\nde sel sans nitrite 140g 4T",
+    "price": "2,47€"
+  },
+  {
+    "name": "Blanc de Poulet Le Gaulois\nSans nitrites x4 - 160g",
+    "price": "1,97€"
+  },
+  {
+    "name": "Hachés de poulet rotis\nMaître Coq - 180g",
+    "price": "2,35€"
+  },
+  {
+    "name": "Blanc de dinde Tradilège\n8 tranches 320g",
+    "price": "4,40€"
+  },
+  {
+    "name": "Blanc de dinde Tradilège\n6 tranches 180g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Blanc de dinde Tradilège\n4 tranches 160g",
+    "price": "1,66€"
+  },
+  {
+    "name": "Blanc de dinde Tradilège\n4 tranches 160g",
+    "price": "2,66€"
+  },
+  {
+    "name": "Blanc de dinde Eco+\n4 tranches - 180g",
+    "price": "1,57€"
+  },
+  {
+    "name": "Blanc de dinde Fleury Michon\nDoré au Four x4 - 160g",
+    "price": "2,61€"
+  },
+  {
+    "name": "Blanc de dinde Fleury Michon\ndoré au four x6 - 180g",
+    "price": "2,82€"
+  },
+  {
+    "name": "Blanc de dinde Fleury Michon\n-25% de sel x4 - 160g",
+    "price": "3,12€"
+  },
+  {
+    "name": "Blanc de Dinde Le Gaulois\nSans nitrites x4 tranches -160g",
+    "price": "2,31€"
+  },
+  {
+    "name": "Lardons supérieurs Tradilège\nNature - 2x100g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Lardons supérieurs Tradilège\nNature - 160g",
+    "price": "1,46€"
+  },
+  {
+    "name": "Allumettes nature Tradilège\n2x100g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Allumettes nature Tradilège\n1kg",
+    "price": "8,75€"
+  },
+  {
+    "name": "Lardons supérieurs Tradilège\nFumés - 2x100g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Lardons supérieurs Tradilège\nFumés - 160g",
+    "price": "1,54€"
+  },
+  {
+    "name": "Lardons supérieurs Tradilège\nFumés maxi format 2x200g",
+    "price": "3,58€"
+  },
+  {
+    "name": "Allumettes lardons Tradilège\nSupérieurs fumés 2x100g",
+    "price": "1,76€"
+  },
+  {
+    "name": "Allumettes fumées Tradilège\n1kg",
+    "price": "8,70€"
+  },
+  {
+    "name": "Allumettes fumées Tradilège\nVPF 2x75g",
+    "price": "1,97€"
+  },
+  {
+    "name": "Lardons fumés Tradilège\nSans nitrite - 2x75g",
+    "price": "1,85€"
+  },
+  {
+    "name": "Lardons nature Tradilège\nSans nitrite - 2x75g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Allumettes fumées Tradilège\nSans nitrite - 2x75g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Allumettes nature Tradilège\nSans nitrite - 2x75g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Allumettes de jambon Tradilège\n2x75g",
+    "price": "1,44€"
+  },
+  {
+    "name": "Lardons de volaille Tradilège\nNature 2x75g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Allumettes fumées Tradilège\nAllégées VPF 150g",
+    "price": "1,95€"
+  },
+  {
+    "name": "Allumettes bacon fumé Tradilège\n2x100g",
+    "price": "1,75€"
+  },
+  {
+    "name": "Emincés de poulet grillé\nTradilège - 2x125g",
+    "price": "4,08€"
+  },
+  {
+    "name": "Dés de jambon Tradilège\nVPF 2x75g",
+    "price": "1,83€"
+  },
+  {
+    "name": "Dés de jambon Tradilège\nMaxi format 2x125g",
+    "price": "2,63€"
+  },
+  {
+    "name": "Dés de jambon Tradilège\n2x75g",
+    "price": "1,44€"
+  },
+  {
+    "name": "Lardons de volaille Tradilège\nFumés 2x75g",
+    "price": "1,73€"
+  },
+  {
+    "name": "Dés de poulet Tradilège\n2x75g",
+    "price": "2,66€"
+  },
+  {
+    "name": "Emincés de poulet Tradilège\nRôti - 2x75g",
+    "price": "2,36€"
+  },
+  {
+    "name": "Râpé de jambon Tradilège\nFumé - 150g",
+    "price": "1,80€"
+  },
+  {
+    "name": "Poitrine nature Tradilège\n1/2 sel 4 tranches 300g",
+    "price": "4,65€"
+  },
+  {
+    "name": "Poitrine fumée Tradilège\n4 tranches 300 gr",
+    "price": "4,65€"
+  },
+  {
+    "name": "Poitrine tranchée Tradilège\n2x 7 tranches VPF 200g",
+    "price": "2,85€"
+  },
+  {
+    "name": "Poitrine fumée Tradilège\n7 tranches fines 2x100g",
+    "price": "2,78€"
+  },
+  {
+    "name": "lardons supérieurs ECO+\nNature - 2x100g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Allumettes supérieures Eco+\n2x100g",
+    "price": "1,44€"
+  },
+  {
+    "name": "Lardons fumés Supérieur Eco+\n2x100g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Allumettes fumées Eco+\n2x100g",
+    "price": "1,44€"
+  },
+  {
+    "name": "Cube de poitrine Eco+\n180g",
+    "price": "1,44€"
+  },
+  {
+    "name": "Cube de poitrine fumée Eco+\n180g",
+    "price": "1,35€"
+  },
+  {
+    "name": "Dés de jambon Eco+\n200g",
+    "price": "1,78€"
+  },
+  {
+    "name": "Lardons nature Herta\n200g",
+    "price": "2,57€"
+  },
+  {
+    "name": "Allumettes nature Herta\nSans nitrite - 2x75g",
+    "price": "2,32€"
+  },
+  {
+    "name": "Lardons fumés Herta\nSans nitrite - 2x75g",
+    "price": "2,13€"
+  },
+  {
+    "name": "Lardons fumés Herta\n200g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Allumettes fumées Herta\nSans nitrite - 2x75g",
+    "price": "2,25€"
+  },
+  {
+    "name": "Allumettes fumées Herta\n200g",
+    "price": "2,21€"
+  },
+  {
+    "name": "Allumettes de bacon Herta\nFumées 200g",
+    "price": "2,18€"
+  },
+  {
+    "name": "Poitrine fumée Herta\n2x100g",
+    "price": "2,92€"
+  },
+  {
+    "name": "Aiguillettes de poulet rôti\nFleury Michon - CSN - 150g",
+    "price": "2,65€"
+  },
+  {
+    "name": "Émincés de poulet rôti\nFleury Michon CSN - 150g",
+    "price": "2,78€"
+  },
+  {
+    "name": "Allumettes Fleury Michon\nJambon cuit - 2x75g",
+    "price": "1,38€"
+  },
+  {
+    "name": "Dés de jambon Fleury Michon\n-25% de sel - 2x75g",
+    "price": "2,25€"
+  },
+  {
+    "name": "Dés d'épaule Fleury Michon\n- 2x75g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Dés de Chorizo Fleury Michon\n120g",
+    "price": "2,56€"
+  },
+  {
+    "name": "Allumettes de poulet\nFleury Michon x2 - 150g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Emincés de poulet Fleury Michon\nRôti sans nitrite 2x75g",
+    "price": "2,56€"
+  },
+  {
+    "name": "Lardons natures\nCharcufine du Forez - 140g",
+    "price": "1,20€"
+  },
+  {
+    "name": "Lardons fumés au bois\nCharcuFine du Forez - 140g",
+    "price": "1,20€"
+  },
+  {
+    "name": "Lardons de canard Le Gaulois\nSous atmosphère - 2x75g",
+    "price": "2,09€"
+  },
+  {
+    "name": "Emincée de cuisse Le Gaulois\nPoulet rôti - 180g",
+    "price": "3,42€"
+  },
+  {
+    "name": "Lardons natures VPF\n1kg",
+    "price": "9,25€"
+  },
+  {
+    "name": "Lardons fumés\n1kg",
+    "price": "9,25€"
+  },
+  {
+    "name": "Lardons fumés Merle\n500g",
+    "price": "3,83€"
+  },
+  {
+    "name": "Knacks Tradilège\nFumées au bois - x4 - 140g",
+    "price": "1,05€"
+  },
+  {
+    "name": "Knacks Tradilège\nFumées au bois - x6 - 210g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Knacks pur porc Tradilège\nFumées au bois x10 - 350g",
+    "price": "1,60€"
+  },
+  {
+    "name": "Saucisse Tradilège Mini Knacks\nPot micro ondable 200g",
+    "price": "2,48€"
+  },
+  {
+    "name": "Saucisses Cocktail Tradilège\n400g",
+    "price": "2,94€"
+  },
+  {
+    "name": "Knacks Tradilège\nPur Porc - x4 - 140g",
+    "price": "1,32€"
+  },
+  {
+    "name": "Knack extra généreuse gril VPF\nTradilège - x4 - 280g",
+    "price": "2,59€"
+  },
+  {
+    "name": "Saucisse de volaille Tradilège\nx10 350g",
+    "price": "1,91€"
+  },
+  {
+    "name": "Saucisse de volaille Tradilège\nx6 210g",
+    "price": "1,36€"
+  },
+  {
+    "name": "Délice volaille Tradilège x4\n140g",
+    "price": "1,32€"
+  },
+  {
+    "name": "Véritables Knacks d'Alsace\nNos Régions ont du Talent 260g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Knacki Original Herta\nSans nitrite x4 - 140g",
+    "price": "1,96€"
+  },
+  {
+    "name": "Knacki Original Herta\nSans nitrite x6 - 210g",
+    "price": "2,50€"
+  },
+  {
+    "name": "Knacki original Herta\nx4 - 140g",
+    "price": "1,39€"
+  },
+  {
+    "name": "Knacki Original Herta\nx6 - 210g",
+    "price": "1,70€"
+  },
+  {
+    "name": "Knacki Original Herta\n100% Porc - 210g",
+    "price": "2,23€"
+  },
+  {
+    "name": "Knacki Original Herta\nx10 - 350g",
+    "price": "2,03€"
+  },
+  {
+    "name": "Knacki au jambon Herta\nx10 - 350g",
+    "price": "3,69€"
+  },
+  {
+    "name": "Knacki Original Herta\n140g",
+    "price": "1,55€"
+  },
+  {
+    "name": "Saucisses Knacki Herta\nPoulet x10 - 350g",
+    "price": "2,23€"
+  },
+  {
+    "name": "Saucisses Knacki Herta\nPoulet x6 - 210g",
+    "price": "1,60€"
+  },
+  {
+    "name": "Saucisses Francfort Tradilège\nx4 240g",
+    "price": "2,23€"
+  },
+  {
+    "name": "Saucisse fumée Tradilège\nVPF x3 375g",
+    "price": "3,23€"
+  },
+  {
+    "name": "Saucisse de Montbéliard\nNos Régions ont du Talent2x125g",
+    "price": "3,31€"
+  },
+  {
+    "name": "Diots fumés de Savoie à cuire\nNos Régions ont du Talent 4x90g",
+    "price": "4,35€"
+  },
+  {
+    "name": "Saucisse de Morteau cuite\nNos Régions ont du Talent 350g",
+    "price": "5,29€"
+  },
+  {
+    "name": "Saucisse de Strasbourg Eco+\nx10 - 350g",
+    "price": "1,47€"
+  },
+  {
+    "name": "4 Saucisses de Toulouse\nSoutenons Nos Agriculteurs 400g",
+    "price": "                     4                                      ,68                 €"
+  },
+  {
+    "name": "Charcuterie Alsacienne\nNos Régions ont du Talent 120g",
+    "price": "1,81€"
+  },
+  {
+    "name": "Andouillettes Tradilège\nNature x3 420g",
+    "price": "4,39€"
+  },
+  {
+    "name": "Boudins blanc Bio Village\nBio - x2 - 220g",
+    "price": "3,99€"
+  },
+  {
+    "name": "Boudin blanc nature\n2x125g",
+    "price": "3,35€"
+  },
+  {
+    "name": "Boudins noirs aux oignons\nTradilège x3 - 375g",
+    "price": "2,51€"
+  },
+  {
+    "name": "Boudins noirs Tradilège\nAux pommes 3x125g",
+    "price": "3,56€"
+  },
+  {
+    "name": "Mini Boudins Noirs Antillais\nTradilège x6 - 375g",
+    "price": "3,89€"
+  },
+  {
+    "name": "Boudins noirs Brient\nOignons anciens - 2x125g",
+    "price": "3,15€"
+  },
+  {
+    "name": "Boudins blancs au porto\nTradilège x3 - 375g",
+    "price": "3,66€"
+  },
+  {
+    "name": "Cervelas choix Tradilège\n300g",
+    "price": "2,00€"
+  },
+  {
+    "name": "Cervelas Herta\nSans nitrite - 200g",
+    "price": "2,83€"
+  },
+  {
+    "name": "Cervelas Herta\nSans nitrite - 400g",
+    "price": "3,63€"
+  },
+  {
+    "name": "Andouillettes de Troyes\nNos Régions ont du Talent 450g",
+    "price": "4,99€"
+  },
+  {
+    "name": "Andouillettes de troyes\nNos Région ont du Talent 2x150g",
+    "price": "3,59€"
+  },
+  {
+    "name": "Andouille Tradilège\n300g",
+    "price": "5,19€"
+  },
+  {
+    "name": "Andouillettes herbes Tradilège\nx3 420g",
+    "price": "4,59€"
+  },
+  {
+    "name": "Andouille de Vire Amand Terroir\n12 tranches - 100g",
+    "price": "2,85€"
+  },
+  {
+    "name": "Blanc de poulet Isla Délice\nHalal - 160g",
+    "price": "3,27€"
+  },
+  {
+    "name": "Délice de poulet Isla Délice\n8 tranches - 240g",
+    "price": "3,90€"
+  },
+  {
+    "name": "Rôti de poulet Fleury Michon\nHalal x6 - 180g",
+    "price": "3,23€"
+  },
+  {
+    "name": "Blanc de poulet Fleury Michon\nHalal x6 - 180g",
+    "price": "2,78€"
+  },
+  {
+    "name": "Délice de dinde Isla Délice\nHalal 8 tranches - 240g",
+    "price": "3,30€"
+  },
+  {
+    "name": "Mortadelle Isla Délice\nHalal Volaille olive 120g",
+    "price": "1,17€"
+  },
+  {
+    "name": "La mortadelice Halal au fromage\n10 tranches - 120g",
+    "price": "1,77€"
+  },
+  {
+    "name": "Mortadelle de volaille\nA la provençale - Halal - 120g",
+    "price": "1,38€"
+  },
+  {
+    "name": "Mouse de foie de volaille\nFleury Michon Halal - 180g",
+    "price": "2,21€"
+  },
+  {
+    "name": "Saucisson sec Isla Délice\nHalal - Boeuf x15 - 120g",
+    "price": "3,57€"
+  },
+  {
+    "name": "Chorizo Halal Isla Délice\nx10- 120g",
+    "price": "3,40€"
+  },
+  {
+    "name": "Chorizo volaille Halal\n170g",
+    "price": "3,55€"
+  },
+  {
+    "name": "Chorizo de dinde Fleury Michon\nHalal - 100g",
+    "price": "3,47€"
+  },
+  {
+    "name": "Saucisse Isla Délice Halal\nGoût boeuf olive - 500g",
+    "price": "2,73€"
+  },
+  {
+    "name": "Saucisse Isla Délice Halal\nGoût boeuf piquant - 500g",
+    "price": "2,52€"
+  },
+  {
+    "name": "Saucisse Isla Délice\nHalal - Goût boeuf - 500g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Saucisse Isla Délice\nHalal - Goût veau - 500g",
+    "price": "2,53€"
+  },
+  {
+    "name": "Saucisse Isla Délice\nHalal - Goût volaille - 500g",
+    "price": "2,87€"
+  }
+]

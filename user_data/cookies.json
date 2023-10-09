@@ -1,0 +1,48 @@
+[
+  {
+    "name": "newsletterDisplayNb",
+    "value": "0",
+    "domain": "www.coursesu.com",
+    "path": "/",
+    "expires": 1699125935,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "storeId",
+    "value": "35029",
+    "domain": "www.coursesu.com",
+    "path": "/",
+    "expires": 1704309940,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "ab_test_banniere",
+    "value": "b",
+    "domain": ".coursesu.com",
+    "path": "/",
+    "expires": 1699125940,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "redirectToStore",
+    "value": "true",
+    "domain": "www.coursesu.com",
+    "path": "/",
+    "expires": 1696534124,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "checkReservationSlots",
+    "value": "2023-10-05T19%3A35%3A46.755Z",
+    "domain": "www.coursesu.com",
+    "path": "/",
+    "expires": 1696534666,
+    "httpOnly": false,
+    "secure": true
+  }
+]

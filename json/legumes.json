@@ -1,0 +1,550 @@
+[
+  {
+    "name": "Tomate allongée\n1kg",
+    "price": "2,49€"
+  },
+  {
+    "name": "Tomate cerise colorée\nPanier du Primeur - 350g",
+    "price": "2,79€"
+  },
+  {
+    "name": "Tomates cerises allongées\nPanier du Primeur - 250g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Tomates cerises Eco+\n200g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Tomate cocktail grappe Filière\nPanier du Primeur - 500g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Tomate ronde à farcir\n1kg",
+    "price": "3,99€"
+  },
+  {
+    "name": "Tomate ronde en grappe\n1KG",
+    "price": "2,49€"
+  },
+  {
+    "name": "Tomate rouge côtelée\n1kg",
+    "price": "3,99€"
+  },
+  {
+    "name": "Tomates cerises ronde\nSans pesticides Savéol - 250g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Tomates Les Originales\nPanier du Primeur - 750g",
+    "price": "3,49€"
+  },
+  {
+    "name": "Tomates rondes Eco+\nFilet 1kg",
+    "price": "1,99€"
+  },
+  {
+    "name": "Aubergine Eco+\n500g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Aubergine\n1kg",
+    "price": "3,49€"
+  },
+  {
+    "name": "Poivron doux rouge\n1p",
+    "price": "1,09€"
+  },
+  {
+    "name": "Poivron doux vert\n1p",
+    "price": "1,09€"
+  },
+  {
+    "name": "Poivrons bicolores Eco+\nx2",
+    "price": "0,99€"
+  },
+  {
+    "name": "Mélange de poivrons doux\n500g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Courgette Eco+\n1kg",
+    "price": "1,39€"
+  },
+  {
+    "name": "Courgette\n1kg",
+    "price": "1,99€"
+  },
+  {
+    "name": "Oignons jaunes Filière\nPanier du Primeur Filet 1kg",
+    "price": "1,79€"
+  },
+  {
+    "name": "Oignons sauciers Filière\nPanier du Primeur Filet 500g",
+    "price": "                     1                                      ,69                 €"
+  },
+  {
+    "name": "Oignons jaunes Eco+\n1.5 Kg",
+    "price": "1,79€"
+  },
+  {
+    "name": "Oignon jaune Bio village\n1kg",
+    "price": "2,49€"
+  },
+  {
+    "name": "Oignon rose de Roscoff AOP\nNos Régions ont du Talent 1kg",
+    "price": "3,99€"
+  },
+  {
+    "name": "Oignon rouge Panier du Primeur\nx4",
+    "price": "1,99€"
+  },
+  {
+    "name": "Echalote longue filière\nPanier du Primeur Filet 250g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Echalotes Eco+\nFilet 500g",
+    "price": "1,49€"
+  },
+  {
+    "name": "Echalote Bio Village\nDemi-longues - 250g",
+    "price": "1,39€"
+  },
+  {
+    "name": "Ail blanc Panier du Primeur\nA mijoter et à confire x3",
+    "price": "2,49€"
+  },
+  {
+    "name": "Ail Eco+\nFilet 250g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Ail blanc Bio Village\n250g",
+    "price": "3,49€"
+  },
+  {
+    "name": "Ail violet Panier du Primeur\nx3",
+    "price": "2,99€"
+  },
+  {
+    "name": "Blancs de poireaux\nPanier du Primeur - 500g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Poireau Bio Bio Village\n750g",
+    "price": "3,99€"
+  },
+  {
+    "name": "Poireau\n1kg",
+    "price": "2,49€"
+  },
+  {
+    "name": "Fenouil\n1kg",
+    "price": "2,99€"
+  },
+  {
+    "name": "Navet\n500g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Croq' Radis Florette\nSachet 200g",
+    "price": "2,69€"
+  },
+  {
+    "name": "Radis noir La pièce\n1p",
+    "price": "1,79€"
+  },
+  {
+    "name": "Betterave rouge Notre Jardin\nEntière cuite sous vide - 500g",
+    "price": "1,03€"
+  },
+  {
+    "name": "Betterave Notre Jardin\nEn cubes - 500g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Chou blanc\n1p",
+    "price": "1,99€"
+  },
+  {
+    "name": "Chou chinois\n1p",
+    "price": "2,99€"
+  },
+  {
+    "name": "Chou fleur\n1p",
+    "price": "2,99€"
+  },
+  {
+    "name": "Baby carottes Florette\n250g",
+    "price": "                     2                                      ,25                 €"
+  },
+  {
+    "name": "Carottes Filière\nPanier du Primeur - 1.5kg",
+    "price": "1,99€"
+  },
+  {
+    "name": "Carotte du Mont Saint-Michel\nNos Régions ont du Talent 1.5kg",
+    "price": "3,29€"
+  },
+  {
+    "name": "Carotte\n1kg",
+    "price": "1,99€"
+  },
+  {
+    "name": "Carotte de sable\n1kg",
+    "price": "2,19€"
+  },
+  {
+    "name": "Carotte fane la botte\n1kg",
+    "price": "1,99€"
+  },
+  {
+    "name": "Concombre\n1p",
+    "price": "1,09€"
+  },
+  {
+    "name": "Concombre\n1p",
+    "price": "1,09€"
+  },
+  {
+    "name": "Salade : Batavia\n1p",
+    "price": "1,25€"
+  },
+  {
+    "name": "Salade : Feuille de chêne rouge\n1p",
+    "price": "1,25€"
+  },
+  {
+    "name": "Salade : Feuille de chêne verte\n1p",
+    "price": "1,25€"
+  },
+  {
+    "name": "Salade : Laitue\n1p",
+    "price": "1,25€"
+  },
+  {
+    "name": "Salade : Sucrine\n3 p",
+    "price": "1,49€"
+  },
+  {
+    "name": "Mâche Eco+\n125g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Salade Scarole\n1p",
+    "price": "2,99€"
+  },
+  {
+    "name": "Avocats mûrs à point\nPanier du Primeur x2",
+    "price": "3,49€"
+  },
+  {
+    "name": "Avocats Eco+\nFilet x3",
+    "price": "1,99€"
+  },
+  {
+    "name": "Avocat\n1p",
+    "price": "0,99€"
+  },
+  {
+    "name": "Céleri branche\n1p",
+    "price": "2,79€"
+  },
+  {
+    "name": "Endives Panier du Primeur\nx5",
+    "price": "2,99€"
+  },
+  {
+    "name": "Endives jeunes pousses\nNos Régions ont du Talent - x6",
+    "price": "2,49€"
+  },
+  {
+    "name": "Endives Eco+\nSachet 500g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Endive\nSachet 1kg",
+    "price": "3,49€"
+  },
+  {
+    "name": "Champignons de Paris bruns\nPanier du Primeur - 250g",
+    "price": "1,79€"
+  },
+  {
+    "name": "Champignons de Paris blancs\nPanier du Primeur - 500g",
+    "price": "2,29€"
+  },
+  {
+    "name": "Cèpes déshydratés Notre Jardin\n40g",
+    "price": "3,07€"
+  },
+  {
+    "name": "Morilles Borde\nBocal - 25g",
+    "price": "15,22€"
+  },
+  {
+    "name": "Morilles déshydratées\nNotre Jardin pot 30g",
+    "price": "11,85€"
+  },
+  {
+    "name": "Courge butternut Bio Village\nBio - 1 pièce",
+    "price": "2,49€"
+  },
+  {
+    "name": "Courge butternut\n1p",
+    "price": "2,49€"
+  },
+  {
+    "name": "Potimarron Bio Village\n1p",
+    "price": "2,49€"
+  },
+  {
+    "name": "Potimarron\n1p",
+    "price": "2,49€"
+  },
+  {
+    "name": "Légumes pour pot au feu\nPanier du Primeur - 1kg",
+    "price": "3,29€"
+  },
+  {
+    "name": "Patate douce Bio Bio Village\n500g",
+    "price": "2,99€"
+  },
+  {
+    "name": "Patate douce\n1kg",
+    "price": "1,99€"
+  },
+  {
+    "name": "Pomme de terre de consommation\nFrites - 2kg",
+    "price": "2,99€"
+  },
+  {
+    "name": "Pomme de terre jaune vapeur\nsautées Panier du Primeur - 2kg",
+    "price": "3,49€"
+  },
+  {
+    "name": "Pomme de terre pour four purée\npotage Panier du Primeur - 2kg",
+    "price": "2,99€"
+  },
+  {
+    "name": "Pomme de terre Bio Bio Village\nFour Potage - 1.5kg",
+    "price": "3,29€"
+  },
+  {
+    "name": "Pomme de terre Bio Bio Village\nGrenaille - 750g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Pomme de terre de consommation\nEco+ 5kg",
+    "price": "3,99€"
+  },
+  {
+    "name": "Pomme de terre de consommation\nN.Jardin entières, épluch. 500g",
+    "price": "1,35€"
+  },
+  {
+    "name": "Pomme de terre Eco+\nEpluchées - 1kg",
+    "price": "1,95€"
+  },
+  {
+    "name": "Pommes de terre Grenailles\nPanier du Primeur - 1kg",
+    "price": "2,99€"
+  },
+  {
+    "name": "Pomme de terre Panier Primeur\nMicro-ondes - 750g",
+    "price": "                     1                                      ,29                 €"
+  },
+  {
+    "name": "Pomme de terre rouge\nPanier du Primeur - 2kg",
+    "price": "3,79€"
+  },
+  {
+    "name": "Pommes de terre Notre Jardin\nEn lamelle - 500g",
+    "price": "1,30€"
+  },
+  {
+    "name": "Iceberg Eco+\n",
+    "price": "0,99€"
+  },
+  {
+    "name": "Pousses haricot Mungo\nLes Crudettes - 250g",
+    "price": "2,49€"
+  },
+  {
+    "name": "Laitue Iceberg Notre Jardin\n300g",
+    "price": "1,05€"
+  },
+  {
+    "name": "Salade Notre Jardin\nLaitue iceberg - 90g",
+    "price": "0,95€"
+  },
+  {
+    "name": "Salade maxi Florette\nLaitue iceberg - 450g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Salade Notre Jardin\nCoeurs de laitue - 70g",
+    "price": "0,92€"
+  },
+  {
+    "name": "Salade Notre Jardin\nCoeurs de laitue - 200g",
+    "price": "1,19€"
+  },
+  {
+    "name": "Salade Notre Jardin\nCoeurs de laitue - 320g",
+    "price": "2,09€"
+  },
+  {
+    "name": "Mélange de laitues Eco 200g\n",
+    "price": "0,93€"
+  },
+  {
+    "name": "Salade Notre Jardin\nFeuille de chêne - 125g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Feuille de chêne verte\nBonduelle - 175g",
+    "price": "2,39€"
+  },
+  {
+    "name": "Feuille de chêne\n125g",
+    "price": "1,46€"
+  },
+  {
+    "name": "Feuille de chêne rouge\nBonduelle - 125g",
+    "price": "1,90€"
+  },
+  {
+    "name": "Coeur de batavia Florette\n200g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Salade 100% coeurs Notre Jardin\nCoeurs de scarole - 250g",
+    "price": "1,63€"
+  },
+  {
+    "name": "Salade Notre jardin\nBouquets de Mâche - 45g",
+    "price": "0,65€"
+  },
+  {
+    "name": "Salade Notre Jardin\nMâche - 200g",
+    "price": "1,88€"
+  },
+  {
+    "name": "Salade Notre Jardin\nMâche - 125g",
+    "price": "1,19€"
+  },
+  {
+    "name": "Mâche Florette\n125g",
+    "price": "1,79€"
+  },
+  {
+    "name": "Salade maxi Florette\nMâche - 200g",
+    "price": "                     2                                      ,18                 €"
+  },
+  {
+    "name": "Salade Notre Jardin\nDuo Mâche et Roquette - 125g",
+    "price": "1,59€"
+  },
+  {
+    "name": "Trio salade Florette\nMâche roquette betterave - 175g",
+    "price": "2,56€"
+  },
+  {
+    "name": "Roquette Notre Jardin\n- 125g",
+    "price": "1,45€"
+  },
+  {
+    "name": "Salade Notre Jardin\nJeunes pousses - 125g",
+    "price": "1,17€"
+  },
+  {
+    "name": "Jeune pousse Panier du Primeur\n125g",
+    "price": "1,29€"
+  },
+  {
+    "name": "Jeunes pousses Bonduelle\n- 145g",
+    "price": "2,35€"
+  },
+  {
+    "name": "Jeunes pousses & roquettes\nBonduelle - 145g",
+    "price": "1,90€"
+  },
+  {
+    "name": "Jeunes pousses douces\nFlorette - 175g",
+    "price": "2,37€"
+  },
+  {
+    "name": "Salade 100% coeurs Notre Jardin\nCoeurs de frisée - 250g",
+    "price": "2,11€"
+  },
+  {
+    "name": "Salade frisée Les Crudettes\n100% coeurs - 200g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Salade composée Notre Jardin\nMélée gourmande - 200g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Salade composée Notre Jardin\n250g",
+    "price": "                     1                                      ,63                 €"
+  },
+  {
+    "name": "Salade composée Notre Jardin\n400g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Salade mélangées Eco+\n250g",
+    "price": "0,81€"
+  },
+  {
+    "name": "Mélange Gourmand\nLes Crudettes - 200g",
+    "price": "2,04€"
+  },
+  {
+    "name": "Salade mélangée Format XXL\nLes Crudettes - 500g",
+    "price": "3,09€"
+  },
+  {
+    "name": "Epinards à cuire Panier Primeur\n400g",
+    "price": "                     1                                      ,99                 €"
+  },
+  {
+    "name": "Carottes râpées Notre Jardin\n150g",
+    "price": "0,99€"
+  },
+  {
+    "name": "Mélange crudités Notre Jardin\n150g",
+    "price": "0,85€"
+  },
+  {
+    "name": "Chou rouge râpé Notre Jardin\n150g",
+    "price": "0,69€"
+  },
+  {
+    "name": "Salade croquante Notre Jardin\n250g",
+    "price": "1,99€"
+  },
+  {
+    "name": "Salade originale Les Crudettes\n200g",
+    "price": "1,89€"
+  },
+  {
+    "name": "Salade Les Crudettes\nMélange - L'irresistible 200g",
+    "price": "2,19€"
+  },
+  {
+    "name": "Persil frisé la botte\n1p",
+    "price": "1,25€"
+  },
+  {
+    "name": "Menthe\n30g",
+    "price": "1,79€"
+  },
+  {
+    "name": "Ciboulette Lamprien Provence\nBotte fraiche de 30g",
+    "price": "1,79€"
+  }
+]
