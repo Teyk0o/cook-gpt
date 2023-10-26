@@ -11,7 +11,7 @@ async function main() {
     const browser = await playwright.firefox.launch({
         headless: false, // Don't use headless mode, we need to pass the anti-robot test by hand
     });
-
+    // Test de commentaire pour le bot de PR
     const page = await browser.newPage({
         extraHTTPHeaders: { // Headers to pass the anti-robot test (based on the headers of a real browser)
             'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8',
